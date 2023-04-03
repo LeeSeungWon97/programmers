@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="177bd15b-9ea1-4674-8793-31e7bf97f4bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "D:/work/intelliJ_project/problemSolve/programmers"
   }
 }]]></component>
