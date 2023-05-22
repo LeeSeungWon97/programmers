@@ -24,5 +24,11 @@ public class Main {
         sol.solution03(lines1);
         sol.solution03(lines2);
         sol.solution03(lines3);
+
+        // Problem 4
+        System.out.println("Problem 4");
+        sol.solution04(7,20);
+        sol.solution04(11,22);
+        sol.solution04(12,21);
     }
 }
