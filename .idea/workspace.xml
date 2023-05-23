@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="177bd15b-9ea1-4674-8793-31e7bf97f4bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day23/Day23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day23/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day23/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day22/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day22/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day22/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day22/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NlBSzowWIMLhKgoZQagZvdmepG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "D:/programmers"
   }
